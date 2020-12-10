@@ -29,7 +29,7 @@ class CustomcssPlugin(octoprint.plugin.SettingsPlugin,
 		# core UI here.
 		return dict(
 			js=["js/customcss.js"],
-			#css=["css/customcss.css"],
+			css=["css/customcss.css"],
 			#less=["less/customcss.less"]
 		)
 

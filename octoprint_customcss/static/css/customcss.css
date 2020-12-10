@@ -1,0 +1,6 @@
+#settings_plugin_customcss, #settings_plugin_customcss form {
+    height: calc(100% - 20px);
+}
+#settings_plugin_customcss .control-group, #settings_plugin_customcss .controls, #settings_plugin_customcss textarea {
+  height: calc(100%);
+}
